@@ -32,10 +32,10 @@ Join [Leland AI Builder Foundations](https://courses.joinleland.com/ai-builder/f
 
 Explore the different output types AI can create — from documents and spreadsheets to visualizations and images.
 
-- [ X ] Create documents, spreadsheets, and presentations with AI
-- [ X ] Create interactive visualizations and artifacts with AI
-- [ X ] Create images with AI
-- [ X ] Explore more types of AI output
+- [ ] Create documents, spreadsheets, and presentations with AI
+- [ ] Create interactive visualizations and artifacts with AI
+- [ ] Create images with AI
+- [ ] Explore more types of AI output
 
 ---
 
@@ -43,9 +43,9 @@ Explore the different output types AI can create — from documents and spreadsh
 
 Understand how AI works and build the muscle to use it as more than a search engine.
 
-- [ X ] Write a great research prompt
-- [ X ] Run a task through AI's different modes
-- [ X ] Map where AI can help you in your work and life
+- [ ] Write a great research prompt
+- [ ] Run a task through AI's different modes
+- [ ] Map where AI can help you in your work and life
 
 ---
 
@@ -53,9 +53,9 @@ Understand how AI works and build the muscle to use it as more than a search eng
 
 Learn to give AI the right context and the right tool for each job, then make something real with it.
 
-- [ X ] Start using voice input
-- [ X ] Give AI context through document uploads
-- [ X ] Work with image and data uploads
+- [ ] Start using voice input
+- [ ] Give AI context through document uploads
+- [ ] Work with image and data uploads
 
 ---
 
@@ -63,10 +63,10 @@ Learn to give AI the right context and the right tool for each job, then make so
 
 Plan your days, sort your priorities out loud, and hand one recurring personal task to AI.
 
-- [ X ] Connect your calendar
-- [ X ] Plan your day with AI
-- [ X ] Sort your to-do list by talking it through
-- [ X ] Share what you built and learn from others
+- [ ] Connect your calendar
+- [ ] Plan your day with AI
+- [ ] Sort your to-do list by talking it through
+- [ ] Share what you built and learn from others
 
 ---
 
@@ -107,11 +107,11 @@ Pick the right model for each job and budget your AI spend with intent.
 
 ## Additional Assignments: 
 
-- [ X ] Post your AI Builder Certificate in the discussion here: https://github.com/Tech-Moms/data_ai_fall_2026/discussions/6
-- [ X ] Review the Data Analytics Resource repository
-- [ X ] Add teachers & fellow students on linkedin
+- [ ] Post your AI Builder Certificate in the discussion here: https://github.com/Tech-Moms/data_ai_fall_2026/discussions/6
+- [ ] Review the Data Analytics Resource repository
+- [ ] Add teachers & fellow students on linkedin
 - [ ] Continue editing your Claude Artifact from Saturday's class via prompts or VSCode and Publish on GitHub as a GitHub page (ask AI for help as needed!)
-- [ X ] Watch these 2 videos about Data Foundations (with your kids if applicable!) 
+- [ ] Watch these 2 videos about Data Foundations (with your kids if applicable!) 
 * [Data and Graphs](https://www.youtube.com/watch?v=hcgThf5mv38&list=PLMx7ftQxw8EEuy6izMKb93fOg6fIVJWlI&index=2&t=1s)
 * [Mean, Median, and Mode](https://www.youtube.com/watch?v=B1HEzNTGeZ4&list=PLMx7ftQxw8EEuy6izMKb93fOg6fIVJWlI&index=2)
 
