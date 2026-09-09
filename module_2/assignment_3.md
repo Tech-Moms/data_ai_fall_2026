@@ -85,16 +85,16 @@ Functions work great for specific calculations while pivot tables are best for s
 
 ### Step Five: Create Charts & Build a Dashboard
 
-- [ ] For each pivot table, create a chart next to it that visually represents the data. It is up to you to decide what chart will convey the data the best.
-- [ ] Review the Annual Report again and make a list of what was reported last year that you will need to report on this year.
-- [ ] Add another tab “Dashboard” and copy & paste the charts you have made in the Dashboard tab.
+- [x] For each pivot table, create a chart next to it that visually represents the data. It is up to you to decide what chart will convey the data the best.
+- [x] Review the Annual Report again and make a list of what was reported last year that you will need to report on this year.
+- [x] Add another tab “Dashboard” and copy & paste the charts you have made in the Dashboard tab.
 
 ### Step Six: Make it Aesthetic
 
-- [ ] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
-- [ ] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
-- [ ] Upload the Tech-Moms logo to the dashboard.
-- [ ] Update the Dashboard theme to use Tech-Moms’ brand colors.
+- [x] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
+- [x] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
+- [x] Upload the Tech-Moms logo to the dashboard.
+- [x] Update the Dashboard theme to use Tech-Moms’ brand colors.
 
 
 
