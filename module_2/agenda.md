@@ -19,7 +19,9 @@
 - 💻 **If time - Hands On Activity**
 - ✅ **Wrap Up & Questions** (last 10 mins)
 
-## 📋 Class Agenda - Saturday, September 5nd, 2026 
+--
+
+## 📋 Class Agenda - Saturday, September 5th, 2026 
 
 - 👋 **Welcome**
 - **[Spreadsheet Quiz](https://claude.ai/public/artifacts/8a89bd93-19a9-4eb8-b9a7-b650da2c6228)**
@@ -39,3 +41,26 @@
 -  **Look Ahead: Module 3**
 -  **Bonus Assignments**
 -  **Guest Speaker: Alyson La**
+
+--
+
+## 📋 Class Agenda - Wednesday, September 9th, 2026
+
+- 👋 **Welcome**
+- 🤝 **Network**
+  * 💙 What's something you're proud of? Big or small—brag about yourself! Tell us something you've done that you think is pretty awesome.
+  * 🔤 ORDER BY birthdate ascending -> January -> December 
+- 🧹 **Housekeeping**
+  * Happy Birthday! Elva (9/6), Laura (9/7), & Shivani (9/8)! 
+    * [How common is your birthday?](https://www.reddit.com/r/dataisbeautiful/comments/13ro2fw/oc_how_common_in_your_birthday/) 
+  * Module 1 completion rate:
+  * Module 2 assignment 1 completion rate:
+  * Update your picture in Slack & GitHub :D
+- 🎤 **AI Show & Tell**
+- 👥 **Module 2 - Assignment 3 Review**
+- ⏸️ **8:00 PM – Break**
+- 👥 **Module 2 - Assignment 3 Review, continued**
+- 💸 **If time - Personal Finance Lecture**
+- ✅ **Wrap Up & Questions** (last 10 mins)
+
+
