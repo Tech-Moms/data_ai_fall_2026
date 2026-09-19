@@ -59,7 +59,7 @@ Some suggestions:
 
 ## Deliverables
 No submission required. This is a self-reflection exercise to help you build valuable data analysis skills while gaining financial clarity.
-
+Assignment completed in Excel.
 ---
 
 Go forth and analyze!
