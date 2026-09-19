@@ -32,10 +32,10 @@ Join [Leland AI Builder Foundations](https://courses.joinleland.com/ai-builder/f
 
 Explore the different output types AI can create — from documents and spreadsheets to visualizations and images.
 
-- [ ] Create documents, spreadsheets, and presentations with AI
-- [ ] Create interactive visualizations and artifacts with AI
-- [ ] Create images with AI
-- [ ] Explore more types of AI output
+- [x ] Create documents, spreadsheets, and presentations with AI
+- [x ] Create interactive visualizations and artifacts with AI
+- [x ] Create images with AI
+- [x] Explore more types of AI output
 
 ---
 
@@ -43,9 +43,9 @@ Explore the different output types AI can create — from documents and spreadsh
 
 Understand how AI works and build the muscle to use it as more than a search engine.
 
-- [ ] Write a great research prompt
-- [ ] Run a task through AI's different modes
-- [ ] Map where AI can help you in your work and life
+- [x ] Write a great research prompt
+- [x ] Run a task through AI's different modes
+- [x ] Map where AI can help you in your work and life
 
 ---
 
@@ -53,9 +53,9 @@ Understand how AI works and build the muscle to use it as more than a search eng
 
 Learn to give AI the right context and the right tool for each job, then make something real with it.
 
-- [ ] Start using voice input
-- [ ] Give AI context through document uploads
-- [ ] Work with image and data uploads
+- [x ] Start using voice input
+- [x ] Give AI context through document uploads
+- [x ] Work with image and data uploads
 
 ---
 
@@ -63,10 +63,10 @@ Learn to give AI the right context and the right tool for each job, then make so
 
 Plan your days, sort your priorities out loud, and hand one recurring personal task to AI.
 
-- [ ] Connect your calendar
-- [ ] Plan your day with AI
-- [ ] Sort your to-do list by talking it through
-- [ ] Share what you built and learn from others
+- [x ] Connect your calendar
+- [x ] Plan your day with AI
+- [x ] Sort your to-do list by talking it through
+- [x ] Share what you built and learn from others
 
 ---
 
@@ -80,10 +80,10 @@ Plan your days, sort your priorities out loud, and hand one recurring personal t
 
 Learn how to use AI securely so you can keep sensitive info safe.
 
-- [ ] Work safely within your company's constraints
-- [ ] Manage permissions and access
-- [ ] Classify your data before you use it
-- [ ] Sanitize your inputs
+- [x ] Work safely within your company's constraints
+- [x ] Manage permissions and access
+- [x ] Classify your data before you use it
+- [x ] Sanitize your inputs
 
 ---
 
@@ -91,8 +91,8 @@ Learn how to use AI securely so you can keep sensitive info safe.
 
 Stay accurate and accountable in everything AI helps you make.
 
-- [ ] Use AI honestly
-- [ ] Fact-check AI outputs
+- [x ] Use AI honestly
+- [x ] Fact-check AI outputs
 
 ---
 
@@ -100,18 +100,18 @@ Stay accurate and accountable in everything AI helps you make.
 
 Pick the right model for each job and budget your AI spend with intent.
 
-- [ ] Pick the right model for each job
-- [ ] Budget your AI spend with intent
+- [x ] Pick the right model for each job
+- [x ] Budget your AI spend with intent
 
 ---
 
 ## Additional Assignments: 
 
-- [ ] Post your AI Builder Certificate in the discussion here: https://github.com/Tech-Moms/data_ai_fall_2026/discussions/6
-- [ ] Review the Data Analytics Resource repository
-- [ ] Add teachers & fellow students on linkedin
-- [ ] Continue editing your Claude Artifact from Saturday's class via prompts or VSCode and Publish on GitHub as a GitHub page (ask AI for help as needed!)
-- [ ] Watch these 2 videos about Data Foundations (with your kids if applicable!) 
+- [x ] Post your AI Builder Certificate in the discussion here: https://github.com/Tech-Moms/data_ai_fall_2026/discussions/6
+- [x ] Review the Data Analytics Resource repository
+- [x ] Add teachers & fellow students on linkedin
+- [x ] Continue editing your Claude Artifact from Saturday's class via prompts or VSCode and Publish on GitHub as a GitHub page (ask AI for help as needed!)
+- [x ] Watch these 2 videos about Data Foundations (with your kids if applicable!) 
 * [Data and Graphs](https://www.youtube.com/watch?v=hcgThf5mv38&list=PLMx7ftQxw8EEuy6izMKb93fOg6fIVJWlI&index=2&t=1s)
 * [Mean, Median, and Mode](https://www.youtube.com/watch?v=B1HEzNTGeZ4&list=PLMx7ftQxw8EEuy6izMKb93fOg6fIVJWlI&index=2)
 
