@@ -27,12 +27,11 @@ Pick a tool you want more practice with. You can go deeper on one we've already 
 - **SQL**
 - **Tableau**
 - **Looker Studio**
-- **Canva**
 - **Data Storytelling:** turn your analysis into a story using any of the tools above
 
 ### New Tools to Explore
 
-- **BI tooling:** [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi) (see the Power BI file in this folder; a PC is required), [Apache Superset](https://superset.apache.org/), [Hex](https://hex.tech/), or [Observable](https://observablehq.com/)
+- **BI tooling:** [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi) (see the Power BI file in this folder; a PC is required), [Apache Superset](https://superset.apache.org/), [Hex](https://hex.tech/), or [Observable](https://observablehq.com/), [Canva](https://www.canva.com/)
 - **AI tooling:** build a data visualization using [Lovable](https://lovable.dev/), [Bolt](https://bolt.new/), [Claude](https://claude.ai/), etc.
 - **Python or R:** try your hand at coding if you're interested!
 - **A platform specific to your industry:** research the tools people in your field use to track data. For example, if you work in events, find the platform event planners use to track registrations and attendance, and use it for your analysis.
