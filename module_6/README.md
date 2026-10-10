@@ -56,6 +56,6 @@ Pick a tool you want more practice with. You can go deeper on one we've already 
 ## Step 4: Assignment - Due by class Saturday, October 17th
 
 - [ ] Analyze your dataset in your chosen tool, using what you learned in your video lessons.
-- [ ] Add your completed project to [this discussion](). Include your topic, your tool, and a link to your work.
+- [ ] Add your completed project to [this discussion](https://github.com/Tech-Moms/data_ai_fall_2026/discussions/82). Include your topic, your tool, and a link to your work.
 - [ ] Check out last semester's Choose Your Adventure projects [here](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/197).
 - [ ] Celebrate! Learning how to learn is an important part of learning! 🎉
